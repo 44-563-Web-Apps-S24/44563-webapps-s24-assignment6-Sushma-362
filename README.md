@@ -3,3 +3,5 @@
 Introduction to Java Script and DOM
 
 package page link : https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment6-Sushma-362/packing.html
+discount page link : https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment6-Sushma-362/discount.html
+Animal page link : https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment6-Sushma-362/animal.html
